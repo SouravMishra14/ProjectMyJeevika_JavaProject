@@ -1,0 +1,78 @@
+
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 5px;
+}
+
+.services {
+    
+    padding: 32px;
+}
+
+.service {
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 16px;
+    margin: 16px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    text-align: center;
+    padding: 5px;
+    background-color: #333;
+    color: #fff;
+}
+ .backtheme{
+     background-color:#aa84e4;
+            height:60px;
+            box-shadow: 10px 5px 10px black;
+        }
+        .tdtheme{
+            font-size: 22px;
+            color: white;
+            font-family: berlin sane fb;
+            text-transform: uppercase;
+        }
+        .tdtheme:hover{
+            background-color: black;
+        }
+       
+         
+        .texttheme{
+            width:250px;
+            height: 30px;
+            border-radius: 30px;
+            border:outset;
+        }
+        .btntheme{
+            width: 100px;
+            height: 30px;
+            background-color: black;
+            color: white;
+            font-size:20px;
+            font-family:berlin sane fb;
+        }
+        .textareatheme{
+            width:250px;
+            height:100px;
+            border:outset;
+        }
+        
+   a{
+      color: white;
+      text-decoration: none;
+   }
